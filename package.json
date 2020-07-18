@@ -1,0 +1,36 @@
+{
+  "name": "nodeproject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "mail": "node gmail.js"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "captcha-solver": "0.0.6",
+    "chromedriver": "^80.0.1",
+    "debug": "~2.6.9",
+    "dbc_api_nodejs": "*",
+    "express": "~4.16.1",
+    "googleapis": "^39.2.0",
+    "cookie-parser": "^1.4.5",
+    "geckodriver": "^1.19.1",
+    "http-errors": "~1.6.3",
+    "imap": "^0.8.19",
+    "morgan": "~1.9.1",
+    "node-fetch": "^2.6.0",
+    "node-scrapy": "^0.4.0-beta.1",
+    "node-uuid": "^1.4.8",
+    "npm": "^6.14.1",
+    "open": "^7.0.3",
+    "uuid": "^7.0.2",
+    "nodemon": "^2.0.2",
+    "opn": "^6.0.0",
+    "pug": "^2.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "uuid-with-v6": "^1.1.2"
+  }
+}
