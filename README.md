@@ -1,4 +1,6 @@
-# bocautomation
+# BOC Automation
+
+## About
 The idea was to automate the opt-out process from big companies that hoard user data and sell them to companies for marketing purposes.
 
 Some "Identity solution" websites like Acxiom and others sell peoples data to anyone willing to pay. You can opt out of these services to protect your online privacy. 
