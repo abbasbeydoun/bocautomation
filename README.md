@@ -9,3 +9,7 @@ We got to the point where we fully automated the opt-out process for a major dat
 For some captchas, the DBC API sends them to actual humans who will solve them and send the response token back to you so you can use it appropriately, esentially "automating humans".
 
 If someone is determined enough, they can always write code to bypass captchas.
+
+
+You can find a working example of how to bypass a captcha with the DBC API in the source code
+
