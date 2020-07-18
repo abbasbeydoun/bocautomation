@@ -1,0 +1,6 @@
+/node_modules/
+/.idea/
+/nodeProject.iml
+credentials.json
+token.json
+package-lock.json
