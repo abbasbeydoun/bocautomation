@@ -22,7 +22,7 @@ __*You can find a working example of how to bypass a captcha with the DBC API in
 This projects aims at opting out of data brokers websites using *Full Human Automation* for the Opt-Out Process. Few of these sites includes:<br>
 - __Acxiom__
 - __MyLife__
-- __WhiteaPages__
+- __WhitePages__
 - __Intelius__
 
 ----
