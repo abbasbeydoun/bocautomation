@@ -13,8 +13,10 @@ For some captchas, the DBC API sends them to actual humans who will solve them a
 
 If someone is determined enough, they can always write code to bypass captchas.
 
-**You can find a working example of how to bypass a captcha with the DBC API in the source code as well as how to use googleapis and OAuth2client to log in to gmail and do some basic things.**
----
+__*You can find a working example of how to bypass a captcha with the DBC API in the source code as well as how to use googleapis and OAuth2client to log in to gmail and do some basic things.*__
+
+----
+
 ## Project's Features
 **Features**:<br>
 This projects aims at opting out of data brokers websites using *Full Human Automation* for the Opt-Out Process. Few of these sites includes:<br>
@@ -22,7 +24,9 @@ This projects aims at opting out of data brokers websites using *Full Human Auto
 - __MyLife__
 - __WhiteaPages__
 - __Intelius__
----
+
+----
+
 ## Requirement to Run this Project:
 To run this project, you will need to have the below:
 1. JavaScript interpreter such as **Webstorm** or **VS Code**.
