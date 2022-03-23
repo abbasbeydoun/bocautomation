@@ -9,7 +9,7 @@ The idea of this project was to opt-out of major services like this.
 
 We got to the point where we fully automated the opt-out process for a major data company using some sample JSON data as input including going to the page, filling the requires forms, logging in to email and clicking on sent link for verification, and solving capchas. The biggest hurdle/achievment was bypassing the captchas with the DeathByCaptcha API.
 
-For some captchas, the DBC API sends them to actual humans who will solve them and send the response token back to you so you can use it appropriately, esentially "automating humans".
+For some captchas, the DBC API sends them to actual humans who will solve them and send the response token back to you so you can use it appropriately, essentially "automating humans".
 
 If someone is determined enough, they can always write code to bypass captchas.
 
